@@ -1,0 +1,1 @@
+You have been  out of game.  {{$message}}                        
